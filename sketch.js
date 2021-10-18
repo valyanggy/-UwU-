@@ -30,8 +30,8 @@
 'use strict';
 
 var count = 0;
-var tileCountX = 2;
-var tileCountY = 2;
+var tileCountX = 1;
+var tileCountY = 1;
 var tileWidth = 0;
 var tileHeight = 0;
 
